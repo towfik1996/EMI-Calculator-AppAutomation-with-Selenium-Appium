@@ -55,7 +55,7 @@ Amount | Interest | EMI | Processing Fee | Monthly EMI | Total Interest | Proces
 ![emi4](https://user-images.githubusercontent.com/96409251/229149876-f8ebb635-43ff-4d31-9952-49e38e074e79.png)
 
 ## Video Output:
-https://user-images.githubusercontent.com/96409251/229150859-5a7c7712-eb54-4305-8ddd-272dc70632a1.MP4
+https://drive.google.com/drive/my-drive
 
 
 
